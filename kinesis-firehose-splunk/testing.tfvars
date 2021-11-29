@@ -1,0 +1,8 @@
+region = "us-east-2"
+hec_url = "https://fake-url"
+kms_alias = "alias/central-logging"
+backsplash_bucket_name = "backsplash-bucket-575545547189-us-east-2"
+hec_token_secret_id = "/awspa/central-logging/splunk/hec-token"
+cloudwatch_logs_dest_name = "CentralCWLogDestination"
+python_runtime = "python3.8"
+organization_id = "o-54qn4vsjtw"
